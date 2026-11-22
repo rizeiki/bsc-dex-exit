@@ -1,0 +1,5 @@
+name: "bsc-dex-exit"
+title: "BSC DEX exit"
+description: "Sell a newly launched BSC token pair into BNB from the Binance Agentic Wallet, with the tax, slippage, route order and on-chain verification that the ENCORE sale proved."
+category: "Work and knowledge"
+include_in_prompt: true
